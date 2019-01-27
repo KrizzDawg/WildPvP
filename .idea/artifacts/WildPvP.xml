@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WildPvP">
+    <output-path>$USER_HOME$/Desktop/New folder (2)/test/plugins</output-path>
+    <root id="archive" name="WildPvP.jar">
+      <element id="module-output" name="WildPvP" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

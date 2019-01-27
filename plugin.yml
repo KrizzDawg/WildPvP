@@ -1,0 +1,9 @@
+name: WildPvP
+main: me.krizzdawg.wildpvp.WildPvPPlugin
+author: KrizzDawg
+version: 1.0-DEV
+commands:
+  wildpvp:
+    usage: /<command>
+    description: wild the pvp ing.
+    aliases: [pvp]
